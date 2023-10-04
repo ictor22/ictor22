@@ -1,6 +1,6 @@
 ### Ola´! Eu sou o Victor Alves 🖐🏽
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//u_victoor)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:https://www.instagram.com/)
 
 ![Victor Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Devctor&show_icons=true&theme=radical)
 
@@ -25,11 +25,11 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 </div>
-
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </div>
+
+
 
 
